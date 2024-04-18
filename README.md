@@ -1,2 +1,2 @@
-# My UI testing framwork:
+# My UI testing framework:
 🏗️ primary version
